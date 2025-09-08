@@ -9,4 +9,7 @@ If you find this utilities helpful and would like to support further development
 
 <img width="500" height="500" alt="monero_address" src="https://github.com/user-attachments/assets/ac3c20d3-d86d-4047-812e-f298258dd065" />
 
+`ethereum:0x42194056e5c9d5d229ecb41c00dcdd200482bee1`
+<img width="500" height="500" alt="ethereum_address" src="https://github.com/user-attachments/assets/93e947b5-f5c9-4f0c-b979-1760a9a81218" />
+
 Thank you for your support!
